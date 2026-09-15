@@ -1,4 +1,4 @@
-# API-Integration-Platform-
+# API-Integration-Platform
 
 A full-stack experimental web platform that integrates multiple AI models and external APIs into a unified interface. The platform allows users to submit prompts, interact with connected AI services, and view AI-generated responses through a responsive web interface.
 
